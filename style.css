@@ -1,0 +1,28 @@
+.police-all {
+    border: 1px solid #000;
+    width: 400px;
+    padding: 20px;
+    margin: 50px;
+}
+.police-text {
+    padding: 10px;
+}
+.police-btn {
+    padding: 10px;
+}
+.hide {
+    display: none;
+}    
+.police-all {
+    border: 1px solid #000;
+    width: 400px;
+    padding: 20px;
+    margin: 50px;}
+  .police-text {padding: 10px;
+}
+  .police-btn {
+    padding: 10px;
+}
+  .hide {
+    display: none;
+}  
